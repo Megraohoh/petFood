@@ -80,7 +80,6 @@ function sendToCatDom(xhrData){
 function executeCatCodeAfterFileIsLoaded(){
 	var data = JSON.parse(this.responseText);
 	sendToCatDom(data);
-	console.log(data);
 }
 
 function executeThisCodeAfterFileFails(){
