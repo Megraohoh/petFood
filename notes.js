@@ -1,7 +1,7 @@
 // Your first task is to build a product page that displays 
 // all brands of dog food, 
 // the different types, 
-with the price and size for each container volume.
+// with the price and size for each container volume.
 
 Once you have all of that information listed, you need to 
 create a second JSON file to represent the new product line 
