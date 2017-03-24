@@ -1,0 +1,30 @@
+body {
+	background-color: #f6c3af;
+	display: flex;
+}
+
+#catFoodContainer {
+	width: 50%;
+	padding-left: 75px;
+
+
+	
+}
+
+#dogFoodContainer {
+	width: 50%;
+	padding-left: 75px;
+
+}
+
+
+
+
+
+
+/*Colors 
+#708090	
+#ffffff	
+#ffa07a	
+#ffffff	
+#f6c3af	*/
